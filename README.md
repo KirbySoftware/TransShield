@@ -1,4 +1,4 @@
-# 🛡️ TransShield — Submit Chaos, Protect Lives 🛡️
+# 🏳️‍⚧️🛡️ TransShield — Submit Chaos, Protect Lives 🛡️🏳️‍⚧️
 
 **TransShield** is a user script for [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/), and works with most browsers.
 This script works to generate and submit false reports on a **"certain health website"** to flood the system in defense of trans youth and their families.
